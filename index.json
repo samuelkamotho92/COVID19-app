@@ -1,0 +1,27 @@
+{
+    "products":
+    [{
+        "item":"sugar",
+        "price":200
+    },
+    {
+        "item":"flour",
+        "price":300
+    },
+    {
+        "item":"milk",
+        "price":50
+    }
+],
+"students":
+[
+    {
+        "name":"Samuel",
+        "age":21
+    },
+    {
+        "name":"John",
+        "age":18
+    }
+]
+}
